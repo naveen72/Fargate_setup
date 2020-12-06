@@ -48,11 +48,11 @@ Parameters:
   AppServerInstancetype:
     Type: String
     Description: Instance type of App server
-    Default : 't2.micro'
- DBServerInstancetype:
+    Default: 't2.micro'
+  DBServerInstancetype:
     Type: String
     Description: Instance type of App server
-    Default : 't2.micro'
+    Default: 't2.micro'
 Metadata:
   AWS::CloudFormation::Interfaces:
     ParameterGroups:
