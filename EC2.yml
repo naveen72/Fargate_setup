@@ -18,7 +18,7 @@ Parameters:
     Type: String
     Description: Name of EC2 
     Type: String
-    Default: 'Server1'
+    Default: 'Server1-Test'
   EC2SecurityGroupName:
     Type: String
     Description: Name of Security Group
